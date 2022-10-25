@@ -31,6 +31,10 @@ a:hover {
     filter: contrast(1.75);
 }
 
+.low_contraste {
+    filter: contrast(0.50);
+}
+
 .bloc {
     width: 100%;
     clear: both;
@@ -782,7 +786,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #575757!important;
 }
 
 .btn-atomic-tangerine:hover {
