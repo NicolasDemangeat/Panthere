@@ -746,7 +746,7 @@ h4 {
 }
 
 .black {
-    color: #000000;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
