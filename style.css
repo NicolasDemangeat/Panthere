@@ -101,6 +101,7 @@ a:hover {
 .texture-paper::before {
     background: url("img/texture-paper.png");
     background-size: 80px 80px;
+    filter: contrast(0.15);
 }
 
 .b-parallax {
